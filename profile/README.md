@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/plant.svg" width="100%" alt="Goyerv Logo" />
+  <img src="../assets/plant.svg" width="100%" alt="Goyerv Logo" />
 </div>
 
 
